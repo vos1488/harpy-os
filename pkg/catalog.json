@@ -1,0 +1,19 @@
+{
+  "os": "HARPY",
+  "version": "0.1.0",
+  "device": "meri",
+  "resolution": [1080, 1920],
+  "visual": { "fg": "#FFFFFF", "bg": "#000000", "font": "harpy-8x8" },
+  "apps": [
+    {"id":"desktop","name_ru":"Стол","entry":"apps/desktop"},
+    {"id":"files","name_ru":"Файлы","entry":"apps/files"},
+    {"id":"term","name_ru":"Терминал","entry":"apps/term"},
+    {"id":"chat","name_ru":"Связь","entry":"apps/chat"},
+    {"id":"settings","name_ru":"Настройки","entry":"apps/settings"},
+    {"id":"edit","name_ru":"Редактор","entry":"apps/edit"},
+    {"id":"calc","name_ru":"Калькулятор","entry":"apps/calc"},
+    {"id":"clock","name_ru":"Часы","entry":"apps/clock"},
+    {"id":"snake","name_ru":"Змейка","entry":"apps/snake"},
+    {"id":"kb","name_ru":"Клавиатура","entry":"apps/kb"}
+  ]
+}
